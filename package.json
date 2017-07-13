@@ -1,0 +1,25 @@
+{
+  "name": "phoenix",
+  "version": "1.0.0",
+  "description": "A collection of scripts and reports for devops",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "moment": "^2.18.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100health/phoenix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/100health/phoenix/issues"
+  },
+  "homepage": "https://github.com/100health/phoenix#readme"
+}
